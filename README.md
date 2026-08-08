@@ -16,18 +16,18 @@ Aprenda os principais conceitos de **Programação Orientada a Objetos em Java**
 
 ## 📚 Sobre este repositório
 
-Este repositório reúne todo o material utilizado nas monitorias de **Programação Orientada a Objetos (POO)**.
+Este repositório reúne os **materiais, exemplos, exercícios e desafios** utilizado as monitorias de **Programação Orientada a Objetos (POO) em Java**.
 
 Aqui você encontrará:
 
-- 📖 Exemplos desenvolvidos em sala;
+- 📖 Exemplos desenvolvidos durante as monitorias;
 - 💻 Exercícios práticos;
 - 🎯 Desafios para fixação;
 - 📂 Códigos-fonte completos;
 - ❓ Dúvidas frequentes;
 - 🚀 Material complementar para estudo.
 
-O objetivo é proporcionar um ambiente organizado para que os alunos possam revisar os conteúdos e praticar a programação em Java.
+O **objetivo** é proporcionar um ambiente organizado para que os alunos possam revisar os conteúdos, praticar programação e desenvolver gradualmente seus conhecimentos em Java e POO.
 
 ---
 
@@ -66,6 +66,7 @@ Acesse as aulas pelo link abaixo:
 ├── 📂 Semana-06-Classes-Abstratas-e-Interfaces
 ├── 📂 Semana-07-Projeto-Pratico
 │
+├── 📂 DúvidasFrequentes
 └── 📂 Recursos
 ```
 
@@ -73,13 +74,14 @@ Acesse as aulas pelo link abaixo:
 
 # 🎯 O que você encontrará em cada semana?
 
-Cada pasta contém:
+Cada pasta semanal poderá conter:
 
-- 📘 Explicação do conteúdo
-- 💻 Código apresentado na monitoria
-- ✍️ Exercícios propostos
-- 🚀 Desafios extras
-- 💡 Comentários no código para facilitar o aprendizado
+- 📘 Explicação do conteúdo;
+- 💻 Código apresentado durante a monitoria;
+- ✍️ Exercícios propostos;
+- 🚀 Desafios extras;
+- 💡 Comentários no código para facilitar o aprendizado;
+- 📝 Materiais complementares.
 
 ---
 
@@ -94,18 +96,82 @@ Cada pasta contém:
 
 # 🌟 Como utilizar este repositório
 
-1. Acesse a pasta da semana desejada.
-2. Leia a explicação do conteúdo.
-3. Execute os exemplos no Visual Studio Code.
-4. Resolva os exercícios.
-5. Tente concluir os desafios sem consultar a solução.
+1️⃣ Escolha a semana
+
+Acesse a pasta correspondente ao conteúdo que deseja estudar.
+
+2️⃣ Estude o conteúdo
+
+Leia as explicações e observe os exemplos apresentados durante a monitoria.
+
+3️⃣ Execute os exemplos
+
+Abra os códigos no Visual Studio Code ou utilize um compilador Java online, como o MyCompiler.
+
+4️⃣ Resolva os exercícios
+
+Tente desenvolver os exercícios sem consultar a solução inicialmente.
+
+5️⃣ Pratique os desafios
+
+Depois de concluir os exercícios, tente resolver os desafios extras para reforçar o conhecimento.
+
+6️⃣ Consulte as dúvidas frequentes
+
+Caso encontre alguma dificuldade, consulte a pasta Dúvidas-Frequentes.
 
 ---
+
+# 📚 Conteúdos de POO
+
+Ao longo das monitorias, serão trabalhados conceitos fundamentais de Programação Orientada a Objetos:
+
+```text
+        Classes
+           ↓
+        Objetos
+           ↓
+       Atributos
+           ↓
+        Métodos
+           ↓
+     Construtores
+           ↓
+    Encapsulamento
+           ↓
+        Herança
+           ↓
+    Polimorfismo
+           ↓
+  Classes Abstratas
+           ↓
+      Interfaces
+           ↓
+   Projeto Prático
+```
 
 <div align="center">
 
 ## 🚀 Bons estudos e boa programação!
 
 *"A melhor forma de aprender programação é programando."*
+
+</div>
+
+
+<div align="center"> 
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/daliene-roque-a5b167269/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DalieneRoque)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCzS1CS4ll7-4kWyIwYVhz9w)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/5EsYDnNDky)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dalieneroque/)
+[![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/dalieneroque)
+
+</div>
+
+<div align="center">
+
+Daliene Nonato Lima Roque
 
 </div>
