@@ -4,6 +4,8 @@
 
 ### Programa Ampliar • Unicesumar • 2026
 
+![alt text](image.png)
+
 Aprenda os principais conceitos de **Programação Orientada a Objetos em Java** por meio de exemplos práticos, exercícios e desafios desenvolvidos durante as monitorias.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
