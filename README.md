@@ -47,7 +47,7 @@ Acesse as aulas pelo link abaixo:
 |:------:|----------|:--------:|
 | ✅ 01 | Classes e Objetos | Concluído |
 | ✅ 02 | Atributos, Métodos e Construtores | Concluído |
-| ⏳ 03 | Encapsulamento | Em breve |
+| ✅ 03 | Encapsulamento | Concluído |
 | ⏳ 04 | Herança | Em breve |
 | ⏳ 05 | Polimorfismo | Em breve |
 | ⏳ 06 | Classes Abstratas e Interfaces | Em breve |
