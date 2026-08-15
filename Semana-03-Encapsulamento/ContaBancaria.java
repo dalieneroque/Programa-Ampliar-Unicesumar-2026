@@ -39,7 +39,7 @@ public class ContaBancaria {
     
     public boolean sacar(double valor) {
         if (valor > 0 && this.saldo >= valor) {
-            this.saldo -= valor;
+            this.saldo -= valor;                                                
             
             System.out.println("Saque de R$" + valor + " realizado com sucesso!");
             return true;
