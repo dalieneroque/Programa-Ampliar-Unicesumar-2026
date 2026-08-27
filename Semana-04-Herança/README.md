@@ -20,9 +20,9 @@ Nesta aula aprendemos:
 
 ##  Exemplo apresentado
 
-Classe Veiculo = Superclasse
-Classe Carro = subclasse
-Classe Moto = subclasse
+Classe Veiculo 
+Classe Carro 
+Classe Moto 
 
 ---
 
