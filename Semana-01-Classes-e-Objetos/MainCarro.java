@@ -8,7 +8,7 @@ public class MainCarro {
 
         // Criação de um objeto chamado carro1 a partir da classe Carro.
         // O operador 'new' é utilizado para instanciar um novo objeto.
-        Carro carro1 = new Carro();
+        Carro1 carro1 = new Carro1();
 
         // Atribuindo valores aos atributos do objeto carro1.
         carro1.marca = "Toyota";
