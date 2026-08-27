@@ -1,9 +1,9 @@
 # Desafio
 
-Crie uma classe Livro contendo:
+**Crie uma classe Livro contendo:**
 
 - título
 - autor
 - número de páginas
 
-Depois crie três objetos.
+**Depois crie três objetos.**

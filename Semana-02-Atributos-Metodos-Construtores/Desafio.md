@@ -1,14 +1,16 @@
-Crie uma classe ContaBancaria.
+# Desfio
 
-Ela deve possuir:
+**Crie uma classe ContaBancaria.**
+
+*Ela deve possuir:*
 
 - titular
 - saldo
 
-Métodos:
+*Métodos:*
 
-depositar()
+- depositar()
 
-sacar()
+- sacar()
 
-consultarSaldo()
+- consultarSaldo()

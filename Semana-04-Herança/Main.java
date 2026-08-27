@@ -1,0 +1,1 @@
+// Será realizado na próxima aula dia 28/08/2026 as 20:30
