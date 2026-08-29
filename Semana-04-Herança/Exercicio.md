@@ -60,3 +60,5 @@ Ao executar o programa, demonstre que:
 
 
 **Objetivo do exercício:** compreender na prática como uma classe pode herdar características de outra classe e, ao mesmo tempo, possuir seus próprios comportamentos.
+
+
