@@ -50,8 +50,8 @@ Acesse as aulas pelo link abaixo:
 | ✅ 03 | Encapsulamento | Concluído |
 | ✅ 04 | Herança | Concluído |
 | ✅ 05 | Polimorfismo | Concluído |
-| ⏳ 06 | Classes Abstratas e Interfaces | Em breve |
-| ⏳ 07 | Projeto Prático Integrador de POO | Em breve |
+| ✅ 06 | Classes Abstratas e Interfaces | Concluído |
+| ✅ 07 | Projeto Prático Integrador de POO | Concluído |
 
 ---
 
